@@ -1,43 +1,34 @@
 # ESP32 Based Weather Station
 
-> Project demonstrating technical skills and practical implementation
+> **Project demonstrating technical skills and practical implementation**
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Technologies](#technologies)
-- [Features](#features)
-- [Technical Skills](#technical-skills)
-- [External Links](#external-links)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Status](#project-status)
-- [Keywords](#keywords)
+---
 
-## 🎯 Overview
-
-**Project Name:** ESP32 Based Weather Station
+## 📋 Overview
 
 **Categories:** IoT/Embedded Systems, Environmental/Energy
 
+**Technologies:** Multiple Technologies, ESP32
+
 **Project Period:** May 2025 - May 2025
 
-**Status:** Completed and Maintained
+**Status:** Completed and Maintained | **Last Updated:** May 2025
 
-**Last Updated:** May 2025
+---
 
-### Description
+## 🚀 Description
 
 Project demonstrating technical skills and practical implementation
 
-## 🚀 Technologies
+---
 
-Multiple Technologies, ESP32
-
-## ✨ Features
+## 💡 Project Highlights
 
 - Successfully developed and deployed ESP32 Based Weather Station
 - Implemented using Multiple Technologies, ESP32
 - Demonstrated proficiency in IoT/Embedded Systems, Environmental/Energy
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -52,34 +43,20 @@ Multiple Technologies, ESP32
 - Device Management
 - Problem Solving
 
-## 🔗 External Links
+---
 
-Video Tutorials/Demos (YouTube):
-- https://www.youtube.com/playlist?list=PLrZbkNpNVSwwNmVhX9jaTQYm4oCd6WHbP
+## 🔗 Links & Resources
 
-## 📦 Installation
+### 📺 Video Tutorials
+- [https://www.youtube.com/playlist?list=PLrZbkNpNVSwwNmVhX9jaTQYm4oCd6WHbP](https://www.youtube.com/playlist?list=PLrZbkNpNVSwwNmVhX9jaTQYm4oCd6WHbP)
 
-```bash
-# Clone the repository
-git clone https://github.com/HorizonHnk/ESP32-Based-Weather-Station
+---
 
-# Navigate to the project directory
-cd ESP32-Based-Weather-Station
+## 📦 Repository
 
-# Install dependencies (if applicable)
-# npm install
-# or
-# pip install -r requirements.txt
-```
+**GitHub:** [https://github.com/HorizonHnk/ESP32-Based-Weather-Station](https://github.com/HorizonHnk/ESP32-Based-Weather-Station)
 
-## 💻 Usage
-
-Please refer to the project-specific documentation for detailed usage instructions.
-
-## 📊 Project Status
-
-- **Status:** Completed and Maintained
-- **Last Updated:** May 2025
+---
 
 ## 🏷️ Keywords
 
@@ -92,16 +69,8 @@ Multiple Technologies, ESP32, IoT/Embedded Systems, Environmental/Energy, Softwa
 **Henock Mukonkole (HorizonHnk)**
 
 - GitHub: [@henockhnk092-dot](https://github.com/henockhnk092-dot/)
-- Portfolio: [86 Technical Projects](https://github.com/henockhnk092-dot/)
-
-## 📄 License
-
-This project is part of my professional portfolio. Please contact me for licensing information.
-
-## 🤝 Contributing
-
-This is a portfolio project, but feedback and suggestions are always welcome!
+- Portfolio: [90 Technical Projects](https://github.com/henockhnk092-dot/)
 
 ---
 
-*Generated as part of HorizonHnk's GitHub Portfolio Restoration Project*
+*Part of my professional portfolio showcasing expertise in IoT/Embedded Systems, Environmental/Energy*
